@@ -1,0 +1,249 @@
+[submodule "attica"]
+	path = attica
+	url = https://invent.kde.org/frameworks/attica.git
+[submodule "baloo"]
+	path = baloo
+	url = https://invent.kde.org/frameworks/baloo.git
+[submodule "bluez-qt"]
+	path = bluez-qt
+	url = https://invent.kde.org/frameworks/bluez-qt.git
+[submodule "breeze-icons"]
+	path = breeze-icons
+	url = https://invent.kde.org/frameworks/breeze-icons.git
+[submodule "extra-cmake-modules"]
+	path = extra-cmake-modules
+	url = https://invent.kde.org/frameworks/extra-cmake-modules.git
+[submodule "frameworkintegration"]
+	path = frameworkintegration
+	url = https://invent.kde.org/frameworks/frameworkintegration.git
+[submodule "kactivities"]
+	path = kactivities
+	url = https://invent.kde.org/frameworks/kactivities.git
+[submodule "kactivities-stats"]
+	path = kactivities-stats
+	url = https://invent.kde.org/frameworks/kactivities-stats.git
+[submodule "kapidox"]
+	path = kapidox
+	url = https://invent.kde.org/frameworks/kapidox.git
+[submodule "karchive"]
+	path = karchive
+	url = https://invent.kde.org/frameworks/karchive.git
+[submodule "kauth"]
+	path = kauth
+	url = https://invent.kde.org/frameworks/kauth.git
+[submodule "kbookmarks"]
+	path = kbookmarks
+	url = https://invent.kde.org/frameworks/kbookmarks.git
+[submodule "kcalendarcore"]
+	path = kcalendarcore
+	url = https://invent.kde.org/frameworks/kcalendarcore.git
+[submodule "kcmutils"]
+	path = kcmutils
+	url = https://invent.kde.org/frameworks/kcmutils.git
+[submodule "kcodecs"]
+	path = kcodecs
+	url = https://invent.kde.org/frameworks/kcodecs.git
+[submodule "kcompletion"]
+	path = kcompletion
+	url = https://invent.kde.org/frameworks/kcompletion.git
+[submodule "kconfig"]
+	path = kconfig
+	url = https://invent.kde.org/frameworks/kconfig.git
+[submodule "kconfigwidgets"]
+	path = kconfigwidgets
+	url = https://invent.kde.org/frameworks/kconfigwidgets.git
+[submodule "kcontacts"]
+	path = kcontacts
+	url = https://invent.kde.org/frameworks/kcontacts.git
+[submodule "kcoreaddons"]
+	path = kcoreaddons
+	url = https://invent.kde.org/frameworks/kcoreaddons.git
+[submodule "kcrash"]
+	path = kcrash
+	url = https://invent.kde.org/frameworks/kcrash.git
+[submodule "kdav"]
+	path = kdav
+	url = https://invent.kde.org/frameworks/kdav.git
+[submodule "kdbusaddons"]
+	path = kdbusaddons
+	url = https://invent.kde.org/frameworks/kdbusaddons.git
+[submodule "kdeclarative"]
+	path = kdeclarative
+	url = https://invent.kde.org/frameworks/kdeclarative.git
+[submodule "kded"]
+	path = kded
+	url = https://invent.kde.org/frameworks/kded.git
+[submodule "kdelibs4support"]
+	path = kdelibs4support
+	url = https://invent.kde.org/frameworks/kdelibs4support.git
+[submodule "kdesignerplugin"]
+	path = kdesignerplugin
+	url = https://invent.kde.org/frameworks/kdesignerplugin.git
+[submodule "kdesu"]
+	path = kdesu
+	url = https://invent.kde.org/frameworks/kdesu.git
+[submodule "kdewebkit"]
+	path = kdewebkit
+	url = https://invent.kde.org/frameworks/kdewebkit.git
+[submodule "kdnssd"]
+	path = kdnssd
+	url = https://invent.kde.org/frameworks/kdnssd.git
+[submodule "kdoctools"]
+	path = kdoctools
+	url = https://invent.kde.org/frameworks/kdoctools.git
+[submodule "kemoticons"]
+	path = kemoticons
+	url = https://invent.kde.org/frameworks/kemoticons.git
+[submodule "kfilemetadata"]
+	path = kfilemetadata
+	url = https://invent.kde.org/frameworks/kfilemetadata.git
+[submodule "kglobalaccel"]
+	path = kglobalaccel
+	url = https://invent.kde.org/frameworks/kglobalaccel.git
+[submodule "kguiaddons"]
+	path = kguiaddons
+	url = https://invent.kde.org/frameworks/kguiaddons.git
+[submodule "kholidays"]
+	path = kholidays
+	url = https://invent.kde.org/frameworks/kholidays.git
+[submodule "khtml"]
+	path = khtml
+	url = https://invent.kde.org/frameworks/khtml.git
+[submodule "ki18n"]
+	path = ki18n
+	url = https://invent.kde.org/frameworks/ki18n.git
+[submodule "kiconthemes"]
+	path = kiconthemes
+	url = https://invent.kde.org/frameworks/kiconthemes.git
+[submodule "kidletime"]
+	path = kidletime
+	url = https://invent.kde.org/frameworks/kidletime.git
+[submodule "kimageformats"]
+	path = kimageformats
+	url = https://invent.kde.org/frameworks/kimageformats.git
+[submodule "kinit"]
+	path = kinit
+	url = https://invent.kde.org/frameworks/kinit.git
+[submodule "kio"]
+	path = kio
+	url = https://invent.kde.org/frameworks/kio.git
+[submodule "kirigami"]
+	path = kirigami
+	url = https://invent.kde.org/frameworks/kirigami.git
+[submodule "kitemmodels"]
+	path = kitemmodels
+	url = https://invent.kde.org/frameworks/kitemmodels.git
+[submodule "kitemviews"]
+	path = kitemviews
+	url = https://invent.kde.org/frameworks/kitemviews.git
+[submodule "kjobwidgets"]
+	path = kjobwidgets
+	url = https://invent.kde.org/frameworks/kjobwidgets.git
+[submodule "kjs"]
+	path = kjs
+	url = https://invent.kde.org/frameworks/kjs.git
+[submodule "kjsembed"]
+	path = kjsembed
+	url = https://invent.kde.org/frameworks/kjsembed.git
+[submodule "kmediaplayer"]
+	path = kmediaplayer
+	url = https://invent.kde.org/frameworks/kmediaplayer.git
+[submodule "knewstuff"]
+	path = knewstuff
+	url = https://invent.kde.org/frameworks/knewstuff.git
+[submodule "knotifications"]
+	path = knotifications
+	url = https://invent.kde.org/frameworks/knotifications.git
+[submodule "knotifyconfig"]
+	path = knotifyconfig
+	url = https://invent.kde.org/frameworks/knotifyconfig.git
+[submodule "kpackage"]
+	path = kpackage
+	url = https://invent.kde.org/frameworks/kpackage.git
+[submodule "kparts"]
+	path = kparts
+	url = https://invent.kde.org/frameworks/kparts.git
+[submodule "kpeople"]
+	path = kpeople
+	url = https://invent.kde.org/frameworks/kpeople.git
+[submodule "kplotting"]
+	path = kplotting
+	url = https://invent.kde.org/frameworks/kplotting.git
+[submodule "kpty"]
+	path = kpty
+	url = https://invent.kde.org/frameworks/kpty.git
+[submodule "kquickcharts"]
+	path = kquickcharts
+	url = https://invent.kde.org/frameworks/kquickcharts.git
+[submodule "kross"]
+	path = kross
+	url = https://invent.kde.org/frameworks/kross.git
+[submodule "krunner"]
+	path = krunner
+	url = https://invent.kde.org/frameworks/krunner.git
+[submodule "kservice"]
+	path = kservice
+	url = https://invent.kde.org/frameworks/kservice.git
+[submodule "ktexteditor"]
+	path = ktexteditor
+	url = https://invent.kde.org/frameworks/ktexteditor.git
+[submodule "ktextwidgets"]
+	path = ktextwidgets
+	url = https://invent.kde.org/frameworks/ktextwidgets.git
+[submodule "kunitconversion"]
+	path = kunitconversion
+	url = https://invent.kde.org/frameworks/kunitconversion.git
+[submodule "kwallet"]
+	path = kwallet
+	url = https://invent.kde.org/frameworks/kwallet.git
+[submodule "kwayland"]
+	path = kwayland
+	url = https://invent.kde.org/frameworks/kwayland.git
+[submodule "kwidgetsaddons"]
+	path = kwidgetsaddons
+	url = https://invent.kde.org/frameworks/kwidgetsaddons.git
+[submodule "kwindowsystem"]
+	path = kwindowsystem
+	url = https://invent.kde.org/frameworks/kwindowsystem.git
+[submodule "kxmlgui"]
+	path = kxmlgui
+	url = https://invent.kde.org/frameworks/kxmlgui.git
+[submodule "kxmlrpcclient"]
+	path = kxmlrpcclient
+	url = https://invent.kde.org/frameworks/kxmlrpcclient.git
+[submodule "modemmanager-qt"]
+	path = modemmanager-qt
+	url = https://invent.kde.org/frameworks/modemmanager-qt.git
+[submodule "networkmanager-qt"]
+	path = networkmanager-qt
+	url = https://invent.kde.org/frameworks/networkmanager-qt.git
+[submodule "oxygen-icons5"]
+	path = oxygen-icons5
+	url = https://invent.kde.org/frameworks/oxygen-icons5.git
+[submodule "plasma-framework"]
+	path = plasma-framework
+	url = https://invent.kde.org/frameworks/plasma-framework.git
+[submodule "prison"]
+	path = prison
+	url = https://invent.kde.org/frameworks/prison.git
+[submodule "purpose"]
+	path = purpose
+	url = https://invent.kde.org/frameworks/purpose.git
+[submodule "qqc2-desktop-style"]
+	path = qqc2-desktop-style
+	url = https://invent.kde.org/frameworks/qqc2-desktop-style.git
+[submodule "solid"]
+	path = solid
+	url = https://invent.kde.org/frameworks/solid.git
+[submodule "sonnet"]
+	path = sonnet
+	url = https://invent.kde.org/frameworks/sonnet.git
+[submodule "syndication"]
+	path = syndication
+	url = https://invent.kde.org/frameworks/syndication.git
+[submodule "syntax-highlighting"]
+	path = syntax-highlighting
+	url = https://invent.kde.org/frameworks/syntax-highlighting.git
+[submodule "threadweaver"]
+	path = threadweaver
+	url = https://invent.kde.org/frameworks/threadweaver.git
